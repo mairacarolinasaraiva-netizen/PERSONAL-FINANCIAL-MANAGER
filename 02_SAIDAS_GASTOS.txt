@@ -1,0 +1,648 @@
+﻿TIPO;DESCRIÇÃO;FORMA DE PAGAMENTO;DATA;VALOR
+Moradia;Aluguel studio simples;PIX;02/01/2024;1680,00
+Moradia;Condomínio;Boleto;05/01/2024;390,00
+Moradia;Energia elétrica;Débito;12/01/2024;113,23
+Moradia;Água e gás;Débito;15/01/2024;111,71
+Moradia;Internet residencial;Crédito;10/01/2024;105,00
+Alimentação;Mercado;Auxílio;07/01/2024;768,15
+Alimentação;Delivery e refeições fora;Crédito;21/01/2024;328,44
+Transporte;Transporte público;Débito;06/01/2024;210,00
+Transporte;Aplicativos de mobilidade;Crédito;24/01/2024;219,13
+Saúde;Plano/consultas e farmácia;Crédito;16/01/2024;209,20
+Educação;Faculdade, cursos e livros;PIX;09/01/2024;490,17
+Assinaturas;Streaming, nuvem e aplicativos;Crédito;13/01/2024;95,00
+Lazer;Passeios, bares e compras pessoais;Crédito;26/01/2024;182,24
+Loja online;Estoque de roupas;Crédito;11/01/2024;731,84
+Loja online;Embalagens, anúncios e taxas;Crédito;19/01/2024;208,61
+Impostos;MEI/DAS e tributos;Débito;20/01/2024;76,00
+Moradia;Pequenos móveis e utensílios;Crédito;17/01/2024;520,00
+Dívidas;Fatura do cartão de crédito;Débito;28/01/2024;2599,46
+Moradia;Aluguel studio simples;PIX;02/02/2024;1680,00
+Moradia;Condomínio;Boleto;05/02/2024;390,00
+Moradia;Energia elétrica;Débito;12/02/2024;124,41
+Moradia;Água e gás;Débito;15/02/2024;95,40
+Moradia;Internet residencial;Crédito;10/02/2024;105,00
+Alimentação;Mercado;Débito;07/02/2024;736,33
+Alimentação;Delivery e refeições fora;Crédito;21/02/2024;440,27
+Transporte;Transporte público;Auxílio;06/02/2024;210,00
+Transporte;Aplicativos de mobilidade;Crédito;24/02/2024;225,93
+Saúde;Plano/consultas e farmácia;Crédito;16/02/2024;283,29
+Educação;Faculdade, cursos e livros;PIX;09/02/2024;502,09
+Assinaturas;Streaming, nuvem e aplicativos;Crédito;13/02/2024;95,00
+Lazer;Passeios, bares e compras pessoais;Crédito;26/02/2024;353,10
+Loja online;Estoque de roupas;Crédito;11/02/2024;657,60
+Loja online;Embalagens, anúncios e taxas;Crédito;19/02/2024;231,87
+Impostos;MEI/DAS e tributos;Débito;20/02/2024;76,00
+Compras;Compra parcelada não essencial;Crédito;25/02/2024;194,82
+Dívidas;Fatura do cartão de crédito;Débito;28/02/2024;2586,88
+Moradia;Aluguel studio simples;PIX;02/03/2024;1680,00
+Moradia;Condomínio;Boleto;05/03/2024;390,00
+Moradia;Energia elétrica;Débito;12/03/2024;116,29
+Moradia;Água e gás;Débito;15/03/2024;109,22
+Moradia;Internet residencial;Crédito;10/03/2024;105,00
+Alimentação;Mercado;Auxílio;07/03/2024;801,59
+Alimentação;Delivery e refeições fora;Crédito;21/03/2024;374,98
+Transporte;Transporte público;Débito;06/03/2024;210,00
+Transporte;Aplicativos de mobilidade;Crédito;24/03/2024;110,81
+Saúde;Plano/consultas e farmácia;Crédito;16/03/2024;212,27
+Educação;Faculdade, cursos e livros;PIX;09/03/2024;453,56
+Assinaturas;Streaming, nuvem e aplicativos;Crédito;13/03/2024;95,00
+Lazer;Passeios, bares e compras pessoais;Crédito;26/03/2024;305,12
+Loja online;Estoque de roupas;Crédito;11/03/2024;452,73
+Loja online;Embalagens, anúncios e taxas;Crédito;19/03/2024;186,93
+Impostos;MEI/DAS e tributos;Débito;20/03/2024;76,00
+Dívidas;Juros/atraso do cartão;Débito;28/03/2024;82,53
+Dívidas;Fatura do cartão de crédito;Débito;28/03/2024;1842,84
+Moradia;Aluguel studio simples;PIX;02/04/2024;1680,00
+Moradia;Condomínio;Boleto;05/04/2024;390,00
+Moradia;Energia elétrica;Débito;12/04/2024;102,05
+Moradia;Água e gás;Débito;15/04/2024;98,72
+Moradia;Internet residencial;Crédito;10/04/2024;105,00
+Alimentação;Mercado;Débito;07/04/2024;741,03
+Alimentação;Delivery e refeições fora;Crédito;21/04/2024;319,79
+Transporte;Transporte público;Auxílio;06/04/2024;210,00
+Transporte;Aplicativos de mobilidade;Crédito;24/04/2024;245,30
+Saúde;Plano/consultas e farmácia;Crédito;16/04/2024;266,29
+Educação;Faculdade, cursos e livros;PIX;09/04/2024;362,22
+Assinaturas;Streaming, nuvem e aplicativos;Crédito;13/04/2024;95,00
+Lazer;Passeios, bares e compras pessoais;Crédito;26/04/2024;210,58
+Loja online;Estoque de roupas;Crédito;11/04/2024;603,48
+Loja online;Embalagens, anúncios e taxas;Crédito;19/04/2024;202,80
+Impostos;MEI/DAS e tributos;Débito;20/04/2024;76,00
+Dívidas;Fatura do cartão de crédito;Débito;28/04/2024;2048,24
+Moradia;Aluguel studio simples;PIX;02/05/2024;1680,00
+Moradia;Condomínio;Boleto;05/05/2024;390,00
+Moradia;Energia elétrica;Débito;12/05/2024;81,67
+Moradia;Água e gás;Débito;15/05/2024;105,38
+Moradia;Internet residencial;Crédito;10/05/2024;105,00
+Alimentação;Mercado;Auxílio;07/05/2024;806,35
+Alimentação;Delivery e refeições fora;Crédito;21/05/2024;281,55
+Transporte;Transporte público;Débito;06/05/2024;210,00
+Transporte;Aplicativos de mobilidade;Crédito;24/05/2024;190,20
+Saúde;Plano/consultas e farmácia;Crédito;16/05/2024;271,24
+Educação;Faculdade, cursos e livros;PIX;09/05/2024;402,58
+Assinaturas;Streaming, nuvem e aplicativos;Crédito;13/05/2024;95,00
+Lazer;Passeios, bares e compras pessoais;Crédito;26/05/2024;269,83
+Loja online;Estoque de roupas;Crédito;11/05/2024;678,63
+Loja online;Embalagens, anúncios e taxas;Crédito;19/05/2024;180,31
+Impostos;MEI/DAS e tributos;Débito;20/05/2024;76,00
+Compras;Compra parcelada não essencial;Crédito;25/05/2024;151,58
+Dívidas;Fatura do cartão de crédito;Débito;28/05/2024;2223,34
+Moradia;Aluguel studio simples;PIX;02/06/2024;1680,00
+Moradia;Condomínio;Boleto;05/06/2024;390,00
+Moradia;Energia elétrica;Débito;12/06/2024;97,04
+Moradia;Água e gás;Débito;15/06/2024;103,62
+Moradia;Internet residencial;Crédito;10/06/2024;105,00
+Alimentação;Mercado;Débito;07/06/2024;779,19
+Alimentação;Delivery e refeições fora;Crédito;21/06/2024;275,24
+Transporte;Transporte público;Auxílio;06/06/2024;210,00
+Transporte;Aplicativos de mobilidade;Crédito;24/06/2024;112,41
+Saúde;Plano/consultas e farmácia;Crédito;16/06/2024;275,16
+Educação;Faculdade, cursos e livros;PIX;09/06/2024;426,81
+Assinaturas;Streaming, nuvem e aplicativos;Crédito;13/06/2024;95,00
+Lazer;Passeios, bares e compras pessoais;Crédito;26/06/2024;176,79
+Loja online;Estoque de roupas;Crédito;11/06/2024;845,94
+Loja online;Embalagens, anúncios e taxas;Crédito;19/06/2024;158,79
+Impostos;MEI/DAS e tributos;Débito;20/06/2024;76,00
+Dívidas;Juros/atraso do cartão;Débito;28/06/2024;119,77
+Dívidas;Fatura do cartão de crédito;Débito;28/06/2024;2044,33
+Moradia;Aluguel studio simples;PIX;02/07/2024;1680,00
+Moradia;Condomínio;Boleto;05/07/2024;390,00
+Moradia;Energia elétrica;Débito;12/07/2024;107,80
+Moradia;Água e gás;Débito;15/07/2024;102,33
+Moradia;Internet residencial;Crédito;10/07/2024;105,00
+Alimentação;Mercado;Auxílio;07/07/2024;719,12
+Alimentação;Delivery e refeições fora;Crédito;21/07/2024;309,85
+Transporte;Transporte público;Débito;06/07/2024;210,00
+Transporte;Aplicativos de mobilidade;Crédito;24/07/2024;219,08
+Saúde;Plano/consultas e farmácia;Crédito;16/07/2024;219,36
+Educação;Faculdade, cursos e livros;PIX;09/07/2024;455,80
+Assinaturas;Streaming, nuvem e aplicativos;Crédito;13/07/2024;95,00
+Lazer;Passeios, bares e compras pessoais;Crédito;26/07/2024;219,78
+Loja online;Estoque de roupas;Crédito;11/07/2024;667,10
+Loja online;Embalagens, anúncios e taxas;Crédito;19/07/2024;253,03
+Impostos;MEI/DAS e tributos;Débito;20/07/2024;76,00
+Educação;Curso intensivo de atualização;Crédito;23/07/2024;420,00
+Dívidas;Fatura do cartão de crédito;Débito;28/07/2024;2508,20
+Moradia;Aluguel studio simples;PIX;02/08/2024;1680,00
+Moradia;Condomínio;Boleto;05/08/2024;390,00
+Moradia;Energia elétrica;Débito;12/08/2024;112,96
+Moradia;Água e gás;Débito;15/08/2024;113,15
+Moradia;Internet residencial;Crédito;10/08/2024;105,00
+Alimentação;Mercado;Débito;07/08/2024;791,36
+Alimentação;Delivery e refeições fora;Crédito;21/08/2024;336,28
+Transporte;Transporte público;Auxílio;06/08/2024;210,00
+Transporte;Aplicativos de mobilidade;Crédito;24/08/2024;215,34
+Saúde;Plano/consultas e farmácia;Crédito;16/08/2024;267,52
+Educação;Faculdade, cursos e livros;PIX;09/08/2024;373,39
+Assinaturas;Streaming, nuvem e aplicativos;Crédito;13/08/2024;95,00
+Lazer;Passeios, bares e compras pessoais;Crédito;26/08/2024;180,56
+Loja online;Estoque de roupas;Crédito;11/08/2024;518,49
+Loja online;Embalagens, anúncios e taxas;Crédito;19/08/2024;208,19
+Impostos;MEI/DAS e tributos;Débito;20/08/2024;76,00
+Compras;Compra parcelada não essencial;Crédito;25/08/2024;224,16
+Dívidas;Fatura do cartão de crédito;Débito;28/08/2024;2150,54
+Moradia;Aluguel studio simples;PIX;02/09/2024;1680,00
+Moradia;Condomínio;Boleto;05/09/2024;390,00
+Moradia;Energia elétrica;Débito;12/09/2024;115,84
+Moradia;Água e gás;Débito;15/09/2024;112,01
+Moradia;Internet residencial;Crédito;10/09/2024;105,00
+Alimentação;Mercado;Auxílio;07/09/2024;783,60
+Alimentação;Delivery e refeições fora;Crédito;21/09/2024;283,75
+Transporte;Transporte público;Débito;06/09/2024;210,00
+Transporte;Aplicativos de mobilidade;Crédito;24/09/2024;110,52
+Saúde;Plano/consultas e farmácia;Crédito;16/09/2024;272,93
+Educação;Faculdade, cursos e livros;PIX;09/09/2024;496,53
+Assinaturas;Streaming, nuvem e aplicativos;Crédito;13/09/2024;95,00
+Lazer;Passeios, bares e compras pessoais;Crédito;26/09/2024;224,48
+Loja online;Estoque de roupas;Crédito;11/09/2024;769,25
+Loja online;Embalagens, anúncios e taxas;Crédito;19/09/2024;161,71
+Impostos;MEI/DAS e tributos;Débito;20/09/2024;76,00
+Dívidas;Juros/atraso do cartão;Débito;28/09/2024;140,58
+Dívidas;Fatura do cartão de crédito;Débito;28/09/2024;2022,64
+Moradia;Aluguel studio simples;PIX;02/10/2024;1680,00
+Moradia;Condomínio;Boleto;05/10/2024;390,00
+Moradia;Energia elétrica;Débito;12/10/2024;95,85
+Moradia;Água e gás;Débito;15/10/2024;109,56
+Moradia;Internet residencial;Crédito;10/10/2024;105,00
+Alimentação;Mercado;Débito;07/10/2024;699,54
+Alimentação;Delivery e refeições fora;Crédito;21/10/2024;269,70
+Transporte;Transporte público;Auxílio;06/10/2024;210,00
+Transporte;Aplicativos de mobilidade;Crédito;24/10/2024;228,26
+Saúde;Plano/consultas e farmácia;Crédito;16/10/2024;304,68
+Educação;Faculdade, cursos e livros;PIX;09/10/2024;480,64
+Assinaturas;Streaming, nuvem e aplicativos;Crédito;13/10/2024;95,00
+Lazer;Passeios, bares e compras pessoais;Crédito;26/10/2024;195,87
+Loja online;Estoque de roupas;Crédito;11/10/2024;712,20
+Loja online;Embalagens, anúncios e taxas;Crédito;19/10/2024;180,86
+Impostos;MEI/DAS e tributos;Débito;20/10/2024;76,00
+Dívidas;Fatura do cartão de crédito;Débito;28/10/2024;2091,57
+Moradia;Aluguel studio simples;PIX;02/11/2024;1680,00
+Moradia;Condomínio;Boleto;05/11/2024;390,00
+Moradia;Energia elétrica;Débito;12/11/2024;92,79
+Moradia;Água e gás;Débito;15/11/2024;103,51
+Moradia;Internet residencial;Crédito;10/11/2024;105,00
+Alimentação;Mercado;Auxílio;07/11/2024;788,35
+Alimentação;Delivery e refeições fora;Crédito;21/11/2024;361,03
+Transporte;Transporte público;Débito;06/11/2024;210,00
+Transporte;Aplicativos de mobilidade;Crédito;24/11/2024;165,82
+Saúde;Plano/consultas e farmácia;Crédito;16/11/2024;255,22
+Educação;Faculdade, cursos e livros;PIX;09/11/2024;381,81
+Assinaturas;Streaming, nuvem e aplicativos;Crédito;13/11/2024;95,00
+Lazer;Passeios, bares e compras pessoais;Crédito;26/11/2024;195,99
+Loja online;Estoque de roupas;Crédito;11/11/2024;862,21
+Loja online;Embalagens, anúncios e taxas;Crédito;19/11/2024;216,81
+Impostos;MEI/DAS e tributos;Débito;20/11/2024;76,00
+Compras;Compra parcelada não essencial;Crédito;25/11/2024;211,97
+Dívidas;Fatura do cartão de crédito;Débito;28/11/2024;2469,05
+Moradia;Aluguel studio simples;PIX;02/12/2024;1680,00
+Moradia;Condomínio;Boleto;05/12/2024;390,00
+Moradia;Energia elétrica;Débito;12/12/2024;92,84
+Moradia;Água e gás;Débito;15/12/2024;108,73
+Moradia;Internet residencial;Crédito;10/12/2024;105,00
+Alimentação;Mercado;Débito;07/12/2024;735,26
+Alimentação;Delivery e refeições fora;Crédito;21/12/2024;459,30
+Transporte;Transporte público;Auxílio;06/12/2024;210,00
+Transporte;Aplicativos de mobilidade;Crédito;24/12/2024;210,17
+Saúde;Plano/consultas e farmácia;Crédito;16/12/2024;317,35
+Educação;Faculdade, cursos e livros;PIX;09/12/2024;388,94
+Assinaturas;Streaming, nuvem e aplicativos;Crédito;13/12/2024;95,00
+Lazer;Passeios, bares e compras pessoais;Crédito;26/12/2024;173,84
+Loja online;Estoque de roupas;Crédito;11/12/2024;428,32
+Loja online;Embalagens, anúncios e taxas;Crédito;19/12/2024;209,76
+Impostos;MEI/DAS e tributos;Débito;20/12/2024;76,00
+Dívidas;Juros/atraso do cartão;Débito;28/12/2024;129,12
+Lazer;Presentes e confraternizações;Crédito;18/12/2024;430,00
+Dívidas;Fatura do cartão de crédito;Débito;28/12/2024;2428,74
+Moradia;Aluguel studio simples;PIX;02/01/2025;1800,00
+Moradia;Condomínio;Boleto;05/01/2025;430,00
+Moradia;Energia elétrica;Débito;12/01/2025;127,42
+Moradia;Água e gás;Débito;15/01/2025;117,63
+Moradia;Internet residencial;Crédito;10/01/2025;115,00
+Alimentação;Mercado;Auxílio;07/01/2025;830,40
+Alimentação;Delivery e refeições fora;Crédito;21/01/2025;532,35
+Transporte;Transporte público;Débito;06/01/2025;235,00
+Transporte;Aplicativos de mobilidade;Crédito;24/01/2025;289,30
+Saúde;Plano/consultas e farmácia;Crédito;16/01/2025;276,67
+Educação;Faculdade, cursos e livros;PIX;09/01/2025;584,34
+Assinaturas;Streaming, nuvem e aplicativos;Crédito;13/01/2025;125,00
+Lazer;Passeios, bares e compras pessoais;Crédito;26/01/2025;367,88
+Loja online;Estoque de roupas;Crédito;11/01/2025;973,68
+Loja online;Embalagens, anúncios e taxas;Crédito;19/01/2025;278,40
+Impostos;MEI/DAS e tributos;Débito;20/01/2025;82,00
+Moradia;Pequenos móveis e utensílios;Crédito;17/01/2025;280,00
+Dívidas;Fatura do cartão de crédito;Débito;28/01/2025;3238,28
+Moradia;Aluguel studio simples;PIX;02/02/2025;1800,00
+Moradia;Condomínio;Boleto;05/02/2025;430,00
+Moradia;Energia elétrica;Débito;12/02/2025;137,49
+Moradia;Água e gás;Débito;15/02/2025;120,51
+Moradia;Internet residencial;Crédito;10/02/2025;115,00
+Alimentação;Mercado;Débito;07/02/2025;716,31
+Alimentação;Delivery e refeições fora;Crédito;21/02/2025;427,92
+Transporte;Transporte público;Auxílio;06/02/2025;235,00
+Transporte;Aplicativos de mobilidade;Crédito;24/02/2025;268,01
+Saúde;Plano/consultas e farmácia;Crédito;16/02/2025;317,20
+Educação;Faculdade, cursos e livros;PIX;09/02/2025;460,96
+Assinaturas;Streaming, nuvem e aplicativos;Crédito;13/02/2025;125,00
+Lazer;Passeios, bares e compras pessoais;Crédito;26/02/2025;243,22
+Loja online;Estoque de roupas;Crédito;11/02/2025;806,70
+Loja online;Embalagens, anúncios e taxas;Crédito;19/02/2025;314,15
+Impostos;MEI/DAS e tributos;Débito;20/02/2025;82,00
+Compras;Compra parcelada não essencial;Crédito;25/02/2025;268,12
+Dívidas;Fatura do cartão de crédito;Débito;28/02/2025;2885,32
+Moradia;Aluguel studio simples;PIX;02/03/2025;1800,00
+Moradia;Condomínio;Boleto;05/03/2025;430,00
+Moradia;Energia elétrica;Débito;12/03/2025;111,97
+Moradia;Água e gás;Débito;15/03/2025;116,86
+Moradia;Internet residencial;Crédito;10/03/2025;115,00
+Alimentação;Mercado;Auxílio;07/03/2025;881,69
+Alimentação;Delivery e refeições fora;Crédito;21/03/2025;370,77
+Transporte;Transporte público;Débito;06/03/2025;235,00
+Transporte;Aplicativos de mobilidade;Crédito;24/03/2025;296,83
+Saúde;Plano/consultas e farmácia;Crédito;16/03/2025;371,58
+Educação;Faculdade, cursos e livros;PIX;09/03/2025;596,80
+Assinaturas;Streaming, nuvem e aplicativos;Crédito;13/03/2025;125,00
+Lazer;Passeios, bares e compras pessoais;Crédito;26/03/2025;309,97
+Loja online;Estoque de roupas;Crédito;11/03/2025;611,91
+Loja online;Embalagens, anúncios e taxas;Crédito;19/03/2025;280,44
+Impostos;MEI/DAS e tributos;Débito;20/03/2025;82,00
+Dívidas;Juros/atraso do cartão;Débito;28/03/2025;138,08
+Dívidas;Fatura do cartão de crédito;Débito;28/03/2025;2481,50
+Moradia;Aluguel studio simples;PIX;02/04/2025;1800,00
+Moradia;Condomínio;Boleto;05/04/2025;430,00
+Moradia;Energia elétrica;Débito;12/04/2025;94,13
+Moradia;Água e gás;Débito;15/04/2025;117,16
+Moradia;Internet residencial;Crédito;10/04/2025;115,00
+Alimentação;Mercado;Débito;07/04/2025;778,73
+Alimentação;Delivery e refeições fora;Crédito;21/04/2025;384,27
+Transporte;Transporte público;Auxílio;06/04/2025;235,00
+Transporte;Aplicativos de mobilidade;Crédito;24/04/2025;179,09
+Saúde;Plano/consultas e farmácia;Crédito;16/04/2025;333,99
+Educação;Faculdade, cursos e livros;PIX;09/04/2025;449,23
+Assinaturas;Streaming, nuvem e aplicativos;Crédito;13/04/2025;125,00
+Lazer;Passeios, bares e compras pessoais;Crédito;26/04/2025;358,41
+Loja online;Estoque de roupas;Crédito;11/04/2025;1057,83
+Loja online;Embalagens, anúncios e taxas;Crédito;19/04/2025;234,42
+Impostos;MEI/DAS e tributos;Débito;20/04/2025;82,00
+Dívidas;Juros/atraso do cartão;Débito;28/04/2025;223,43
+Dívidas;Fatura do cartão de crédito;Débito;28/04/2025;2788,01
+Moradia;Aluguel studio simples;PIX;02/05/2025;1800,00
+Moradia;Condomínio;Boleto;05/05/2025;430,00
+Moradia;Energia elétrica;Débito;12/05/2025;92,58
+Moradia;Água e gás;Débito;15/05/2025;102,63
+Moradia;Internet residencial;Crédito;10/05/2025;115,00
+Alimentação;Mercado;Auxílio;07/05/2025;876,48
+Alimentação;Delivery e refeições fora;Crédito;21/05/2025;474,03
+Transporte;Transporte público;Débito;06/05/2025;235,00
+Transporte;Aplicativos de mobilidade;Crédito;24/05/2025;199,85
+Saúde;Plano/consultas e farmácia;Crédito;16/05/2025;314,26
+Educação;Faculdade, cursos e livros;PIX;09/05/2025;480,51
+Assinaturas;Streaming, nuvem e aplicativos;Crédito;13/05/2025;125,00
+Lazer;Passeios, bares e compras pessoais;Crédito;26/05/2025;532,55
+Loja online;Estoque de roupas;Crédito;11/05/2025;900,36
+Loja online;Embalagens, anúncios e taxas;Crédito;19/05/2025;358,68
+Impostos;MEI/DAS e tributos;Débito;20/05/2025;82,00
+Compras;Compra parcelada não essencial;Crédito;25/05/2025;233,85
+Dívidas;Fatura do cartão de crédito;Débito;28/05/2025;3253,58
+Moradia;Aluguel studio simples;PIX;02/06/2025;1800,00
+Moradia;Condomínio;Boleto;05/06/2025;430,00
+Moradia;Energia elétrica;Débito;12/06/2025;100,80
+Moradia;Água e gás;Débito;15/06/2025;118,40
+Moradia;Internet residencial;Crédito;10/06/2025;115,00
+Alimentação;Mercado;Débito;07/06/2025;714,97
+Alimentação;Delivery e refeições fora;Crédito;21/06/2025;500,45
+Transporte;Transporte público;Auxílio;06/06/2025;235,00
+Transporte;Aplicativos de mobilidade;Crédito;24/06/2025;274,21
+Saúde;Plano/consultas e farmácia;Crédito;16/06/2025;289,10
+Educação;Faculdade, cursos e livros;PIX;09/06/2025;471,29
+Assinaturas;Streaming, nuvem e aplicativos;Crédito;13/06/2025;125,00
+Lazer;Passeios, bares e compras pessoais;Crédito;26/06/2025;212,74
+Loja online;Estoque de roupas;Crédito;11/06/2025;662,22
+Loja online;Embalagens, anúncios e taxas;Crédito;19/06/2025;260,90
+Impostos;MEI/DAS e tributos;Débito;20/06/2025;82,00
+Dívidas;Juros/atraso do cartão;Débito;28/06/2025;239,69
+Dívidas;Fatura do cartão de crédito;Débito;28/06/2025;2439,62
+Moradia;Aluguel studio simples;PIX;02/07/2025;1800,00
+Moradia;Condomínio;Boleto;05/07/2025;430,00
+Moradia;Energia elétrica;Débito;12/07/2025;121,81
+Moradia;Água e gás;Débito;15/07/2025;103,25
+Moradia;Internet residencial;Crédito;10/07/2025;115,00
+Alimentação;Mercado;Auxílio;07/07/2025;829,48
+Alimentação;Delivery e refeições fora;Crédito;21/07/2025;286,19
+Transporte;Transporte público;Débito;06/07/2025;235,00
+Transporte;Aplicativos de mobilidade;Crédito;24/07/2025;331,92
+Saúde;Plano/consultas e farmácia;Crédito;16/07/2025;323,47
+Educação;Faculdade, cursos e livros;PIX;09/07/2025;496,16
+Assinaturas;Streaming, nuvem e aplicativos;Crédito;13/07/2025;125,00
+Lazer;Passeios, bares e compras pessoais;Crédito;26/07/2025;213,53
+Loja online;Estoque de roupas;Crédito;11/07/2025;999,58
+Loja online;Embalagens, anúncios e taxas;Crédito;19/07/2025;298,04
+Impostos;MEI/DAS e tributos;Débito;20/07/2025;82,00
+Educação;Curso intensivo de atualização;Crédito;23/07/2025;620,00
+Dívidas;Fatura do cartão de crédito;Débito;28/07/2025;3312,73
+Moradia;Aluguel studio simples;PIX;02/08/2025;1800,00
+Moradia;Condomínio;Boleto;05/08/2025;430,00
+Moradia;Energia elétrica;Débito;12/08/2025;128,43
+Moradia;Água e gás;Débito;15/08/2025;108,42
+Moradia;Internet residencial;Crédito;10/08/2025;115,00
+Alimentação;Mercado;Débito;07/08/2025;829,48
+Alimentação;Delivery e refeições fora;Crédito;21/08/2025;549,90
+Transporte;Transporte público;Auxílio;06/08/2025;235,00
+Transporte;Aplicativos de mobilidade;Crédito;24/08/2025;201,89
+Saúde;Plano/consultas e farmácia;Crédito;16/08/2025;318,72
+Educação;Faculdade, cursos e livros;PIX;09/08/2025;538,32
+Assinaturas;Streaming, nuvem e aplicativos;Crédito;13/08/2025;125,00
+Lazer;Passeios, bares e compras pessoais;Crédito;26/08/2025;424,22
+Loja online;Estoque de roupas;Crédito;11/08/2025;783,05
+Loja online;Embalagens, anúncios e taxas;Crédito;19/08/2025;338,81
+Impostos;MEI/DAS e tributos;Débito;20/08/2025;82,00
+Compras;Compra parcelada não essencial;Crédito;25/08/2025;326,72
+Dívidas;Fatura do cartão de crédito;Débito;28/08/2025;3183,31
+Moradia;Aluguel studio simples;PIX;02/09/2025;1800,00
+Moradia;Condomínio;Boleto;05/09/2025;430,00
+Moradia;Energia elétrica;Débito;12/09/2025;110,89
+Moradia;Água e gás;Débito;15/09/2025;102,68
+Moradia;Internet residencial;Crédito;10/09/2025;115,00
+Alimentação;Mercado;Auxílio;07/09/2025;859,25
+Alimentação;Delivery e refeições fora;Crédito;21/09/2025;416,81
+Transporte;Transporte público;Débito;06/09/2025;235,00
+Transporte;Aplicativos de mobilidade;Crédito;24/09/2025;199,55
+Saúde;Plano/consultas e farmácia;Crédito;16/09/2025;362,35
+Educação;Faculdade, cursos e livros;PIX;09/09/2025;541,24
+Assinaturas;Streaming, nuvem e aplicativos;Crédito;13/09/2025;125,00
+Lazer;Passeios, bares e compras pessoais;Crédito;26/09/2025;188,56
+Loja online;Estoque de roupas;Crédito;11/09/2025;567,14
+Loja online;Embalagens, anúncios e taxas;Crédito;19/09/2025;335,67
+Impostos;MEI/DAS e tributos;Débito;20/09/2025;82,00
+Dívidas;Juros/atraso do cartão;Débito;28/09/2025;187,67
+Dívidas;Fatura do cartão de crédito;Débito;28/09/2025;2310,08
+Moradia;Aluguel studio simples;PIX;02/10/2025;1800,00
+Moradia;Condomínio;Boleto;05/10/2025;430,00
+Moradia;Energia elétrica;Débito;12/10/2025;99,20
+Moradia;Água e gás;Débito;15/10/2025;104,17
+Moradia;Internet residencial;Crédito;10/10/2025;115,00
+Alimentação;Mercado;Débito;07/10/2025;782,20
+Alimentação;Delivery e refeições fora;Crédito;21/10/2025;571,71
+Transporte;Transporte público;Auxílio;06/10/2025;235,00
+Transporte;Aplicativos de mobilidade;Crédito;24/10/2025;204,52
+Saúde;Plano/consultas e farmácia;Crédito;16/10/2025;301,68
+Educação;Faculdade, cursos e livros;PIX;09/10/2025;526,07
+Assinaturas;Streaming, nuvem e aplicativos;Crédito;13/10/2025;125,00
+Lazer;Passeios, bares e compras pessoais;Crédito;26/10/2025;451,06
+Loja online;Estoque de roupas;Crédito;11/10/2025;789,46
+Loja online;Embalagens, anúncios e taxas;Crédito;19/10/2025;286,70
+Impostos;MEI/DAS e tributos;Débito;20/10/2025;82,00
+Dívidas;Juros/atraso do cartão;Débito;28/10/2025;165,83
+Dívidas;Fatura do cartão de crédito;Débito;28/10/2025;2845,13
+Moradia;Aluguel studio simples;PIX;02/11/2025;1800,00
+Moradia;Condomínio;Boleto;05/11/2025;430,00
+Moradia;Energia elétrica;Débito;12/11/2025;96,92
+Moradia;Água e gás;Débito;15/11/2025;119,81
+Moradia;Internet residencial;Crédito;10/11/2025;115,00
+Alimentação;Mercado;Auxílio;07/11/2025;880,77
+Alimentação;Delivery e refeições fora;Crédito;21/11/2025;364,09
+Transporte;Transporte público;Débito;06/11/2025;235,00
+Transporte;Aplicativos de mobilidade;Crédito;24/11/2025;144,82
+Saúde;Plano/consultas e farmácia;Crédito;16/11/2025;349,31
+Educação;Faculdade, cursos e livros;PIX;09/11/2025;481,08
+Assinaturas;Streaming, nuvem e aplicativos;Crédito;13/11/2025;125,00
+Lazer;Passeios, bares e compras pessoais;Crédito;26/11/2025;423,48
+Loja online;Estoque de roupas;Crédito;11/11/2025;829,05
+Loja online;Embalagens, anúncios e taxas;Crédito;19/11/2025;278,66
+Impostos;MEI/DAS e tributos;Débito;20/11/2025;82,00
+Compras;Compra parcelada não essencial;Crédito;25/11/2025;250,70
+Dívidas;Fatura do cartão de crédito;Débito;28/11/2025;2880,11
+Moradia;Aluguel studio simples;PIX;02/12/2025;1800,00
+Moradia;Condomínio;Boleto;05/12/2025;430,00
+Moradia;Energia elétrica;Débito;12/12/2025;108,03
+Moradia;Água e gás;Débito;15/12/2025;108,30
+Moradia;Internet residencial;Crédito;10/12/2025;115,00
+Alimentação;Mercado;Débito;07/12/2025;792,70
+Alimentação;Delivery e refeições fora;Crédito;21/12/2025;352,66
+Transporte;Transporte público;Auxílio;06/12/2025;235,00
+Transporte;Aplicativos de mobilidade;Crédito;24/12/2025;254,30
+Saúde;Plano/consultas e farmácia;Crédito;16/12/2025;307,86
+Educação;Faculdade, cursos e livros;PIX;09/12/2025;552,97
+Assinaturas;Streaming, nuvem e aplicativos;Crédito;13/12/2025;125,00
+Lazer;Passeios, bares e compras pessoais;Crédito;26/12/2025;227,13
+Loja online;Estoque de roupas;Crédito;11/12/2025;1016,50
+Loja online;Embalagens, anúncios e taxas;Crédito;19/12/2025;352,23
+Impostos;MEI/DAS e tributos;Débito;20/12/2025;82,00
+Dívidas;Juros/atraso do cartão;Débito;28/12/2025;144,40
+Lazer;Presentes e confraternizações;Crédito;18/12/2025;620,00
+Dívidas;Fatura do cartão de crédito;Débito;28/12/2025;3370,68
+Moradia;Aluguel studio simples;PIX;02/01/2026;1950,00
+Moradia;Condomínio;Boleto;05/01/2026;470,00
+Moradia;Energia elétrica;Débito;12/01/2026;136,63
+Moradia;Água e gás;Débito;15/01/2026;113,83
+Moradia;Internet residencial;Crédito;10/01/2026;125,00
+Alimentação;Mercado;Auxílio;07/01/2026;844,53
+Alimentação;Delivery e refeições fora;Crédito;21/01/2026;373,83
+Transporte;Transporte público;Débito;06/01/2026;270,00
+Transporte;Aplicativos de mobilidade;Crédito;24/01/2026;275,02
+Saúde;Plano/consultas e farmácia;Crédito;16/01/2026;301,64
+Educação;Faculdade, cursos e livros;PIX;09/01/2026;545,54
+Assinaturas;Streaming, nuvem e aplicativos;Crédito;13/01/2026;155,00
+Lazer;Passeios, bares e compras pessoais;Crédito;26/01/2026;678,00
+Loja online;Estoque de roupas;Crédito;11/01/2026;684,90
+Loja online;Embalagens, anúncios e taxas;Crédito;19/01/2026;420,20
+Impostos;MEI/DAS e tributos;Débito;20/01/2026;92,00
+Moradia;Pequenos móveis e utensílios;Crédito;17/01/2026;340,00
+Dívidas;Fatura do cartão de crédito;Débito;28/01/2026;3353,59
+Moradia;Aluguel studio simples;PIX;02/02/2026;1950,00
+Moradia;Condomínio;Boleto;05/02/2026;470,00
+Moradia;Energia elétrica;Débito;12/02/2026;140,64
+Moradia;Água e gás;Débito;15/02/2026;110,77
+Moradia;Internet residencial;Crédito;10/02/2026;125,00
+Alimentação;Mercado;Débito;07/02/2026;859,76
+Alimentação;Delivery e refeições fora;Crédito;21/02/2026;673,26
+Transporte;Transporte público;Auxílio;06/02/2026;270,00
+Transporte;Aplicativos de mobilidade;Crédito;24/02/2026;393,46
+Saúde;Plano/consultas e farmácia;Crédito;16/02/2026;385,47
+Educação;Faculdade, cursos e livros;PIX;09/02/2026;694,14
+Assinaturas;Streaming, nuvem e aplicativos;Crédito;13/02/2026;155,00
+Lazer;Passeios, bares e compras pessoais;Crédito;26/02/2026;706,21
+Loja online;Estoque de roupas;Crédito;11/02/2026;1242,19
+Loja online;Embalagens, anúncios e taxas;Crédito;19/02/2026;329,36
+Impostos;MEI/DAS e tributos;Débito;20/02/2026;92,00
+Compras;Compra parcelada não essencial;Crédito;25/02/2026;384,42
+Dívidas;Fatura do cartão de crédito;Débito;28/02/2026;4394,37
+Moradia;Aluguel studio simples;PIX;02/03/2026;1950,00
+Moradia;Condomínio;Boleto;05/03/2026;470,00
+Moradia;Energia elétrica;Débito;12/03/2026;122,78
+Moradia;Água e gás;Débito;15/03/2026;129,07
+Moradia;Internet residencial;Crédito;10/03/2026;125,00
+Alimentação;Mercado;Auxílio;07/03/2026;886,43
+Alimentação;Delivery e refeições fora;Crédito;21/03/2026;781,69
+Transporte;Transporte público;Débito;06/03/2026;270,00
+Transporte;Aplicativos de mobilidade;Crédito;24/03/2026;242,73
+Saúde;Plano/consultas e farmácia;Crédito;16/03/2026;343,60
+Educação;Faculdade, cursos e livros;PIX;09/03/2026;541,86
+Assinaturas;Streaming, nuvem e aplicativos;Crédito;13/03/2026;155,00
+Lazer;Passeios, bares e compras pessoais;Crédito;26/03/2026;501,59
+Loja online;Estoque de roupas;Crédito;11/03/2026;764,22
+Loja online;Embalagens, anúncios e taxas;Crédito;19/03/2026;455,84
+Impostos;MEI/DAS e tributos;Débito;20/03/2026;92,00
+Dívidas;Juros/atraso do cartão;Débito;28/03/2026;263,44
+Dívidas;Fatura do cartão de crédito;Débito;28/03/2026;3369,67
+Moradia;Aluguel studio simples;PIX;02/04/2026;1950,00
+Moradia;Condomínio;Boleto;05/04/2026;470,00
+Moradia;Energia elétrica;Débito;12/04/2026;108,31
+Moradia;Água e gás;Débito;15/04/2026;129,47
+Moradia;Internet residencial;Crédito;10/04/2026;125,00
+Alimentação;Mercado;Débito;07/04/2026;933,23
+Alimentação;Delivery e refeições fora;Crédito;21/04/2026;477,80
+Transporte;Transporte público;Auxílio;06/04/2026;270,00
+Transporte;Aplicativos de mobilidade;Crédito;24/04/2026;397,42
+Saúde;Plano/consultas e farmácia;Crédito;16/04/2026;360,76
+Educação;Faculdade, cursos e livros;PIX;09/04/2026;684,40
+Assinaturas;Streaming, nuvem e aplicativos;Crédito;13/04/2026;155,00
+Lazer;Passeios, bares e compras pessoais;Crédito;26/04/2026;551,24
+Loja online;Estoque de roupas;Crédito;11/04/2026;1185,62
+Loja online;Embalagens, anúncios e taxas;Crédito;19/04/2026;412,57
+Impostos;MEI/DAS e tributos;Débito;20/04/2026;92,00
+Dívidas;Fatura do cartão de crédito;Débito;28/04/2026;3665,41
+Moradia;Aluguel studio simples;PIX;02/05/2026;1950,00
+Moradia;Condomínio;Boleto;05/05/2026;470,00
+Moradia;Energia elétrica;Débito;12/05/2026;96,91
+Moradia;Água e gás;Débito;15/05/2026;113,29
+Moradia;Internet residencial;Crédito;10/05/2026;125,00
+Alimentação;Mercado;Auxílio;07/05/2026;836,94
+Alimentação;Delivery e refeições fora;Crédito;21/05/2026;705,64
+Transporte;Transporte público;Débito;06/05/2026;270,00
+Transporte;Aplicativos de mobilidade;Crédito;24/05/2026;389,73
+Saúde;Plano/consultas e farmácia;Crédito;16/05/2026;373,80
+Educação;Faculdade, cursos e livros;PIX;09/05/2026;597,67
+Assinaturas;Streaming, nuvem e aplicativos;Crédito;13/05/2026;155,00
+Lazer;Passeios, bares e compras pessoais;Crédito;26/05/2026;294,27
+Loja online;Estoque de roupas;Crédito;11/05/2026;1156,73
+Loja online;Embalagens, anúncios e taxas;Crédito;19/05/2026;404,10
+Impostos;MEI/DAS e tributos;Débito;20/05/2026;92,00
+Compras;Compra parcelada não essencial;Crédito;25/05/2026;394,07
+Dívidas;Fatura do cartão de crédito;Débito;28/05/2026;3998,34
+Moradia;Aluguel studio simples;PIX;02/06/2026;1950,00
+Moradia;Condomínio;Boleto;05/06/2026;470,00
+Moradia;Energia elétrica;Débito;12/06/2026;105,04
+Moradia;Água e gás;Débito;15/06/2026;111,09
+Moradia;Internet residencial;Crédito;10/06/2026;125,00
+Alimentação;Mercado;Débito;07/06/2026;915,92
+Alimentação;Delivery e refeições fora;Crédito;21/06/2026;434,45
+Transporte;Transporte público;Auxílio;06/06/2026;270,00
+Transporte;Aplicativos de mobilidade;Crédito;24/06/2026;306,48
+Saúde;Plano/consultas e farmácia;Crédito;16/06/2026;345,20
+Educação;Faculdade, cursos e livros;PIX;09/06/2026;655,13
+Assinaturas;Streaming, nuvem e aplicativos;Crédito;13/06/2026;155,00
+Lazer;Passeios, bares e compras pessoais;Crédito;26/06/2026;466,88
+Loja online;Estoque de roupas;Crédito;11/06/2026;1141,38
+Loja online;Embalagens, anúncios e taxas;Crédito;19/06/2026;301,12
+Impostos;MEI/DAS e tributos;Débito;20/06/2026;92,00
+Dívidas;Juros/atraso do cartão;Débito;28/06/2026;206,25
+Dívidas;Fatura do cartão de crédito;Débito;28/06/2026;3275,51
+Moradia;Aluguel studio simples;PIX;02/07/2026;1950,00
+Moradia;Condomínio;Boleto;05/07/2026;470,00
+Moradia;Energia elétrica;Débito;12/07/2026;138,18
+Moradia;Água e gás;Débito;15/07/2026;107,84
+Moradia;Internet residencial;Crédito;10/07/2026;125,00
+Alimentação;Mercado;Auxílio;07/07/2026;937,07
+Alimentação;Delivery e refeições fora;Crédito;21/07/2026;444,46
+Transporte;Transporte público;Débito;06/07/2026;270,00
+Transporte;Aplicativos de mobilidade;Crédito;24/07/2026;293,87
+Saúde;Plano/consultas e farmácia;Crédito;16/07/2026;369,71
+Educação;Faculdade, cursos e livros;PIX;09/07/2026;580,25
+Assinaturas;Streaming, nuvem e aplicativos;Crédito;13/07/2026;155,00
+Lazer;Passeios, bares e compras pessoais;Crédito;26/07/2026;546,17
+Loja online;Estoque de roupas;Crédito;11/07/2026;1230,85
+Loja online;Embalagens, anúncios e taxas;Crédito;19/07/2026;331,76
+Impostos;MEI/DAS e tributos;Débito;20/07/2026;92,00
+Educação;Curso intensivo de atualização;Crédito;23/07/2026;780,00
+Dívidas;Fatura do cartão de crédito;Débito;28/07/2026;4276,82
+Moradia;Aluguel studio simples;PIX;02/08/2026;1950,00
+Moradia;Condomínio;Boleto;05/08/2026;470,00
+Moradia;Energia elétrica;Débito;12/08/2026;150,85
+Moradia;Água e gás;Débito;15/08/2026;127,90
+Moradia;Internet residencial;Crédito;10/08/2026;125,00
+Alimentação;Mercado;Débito;07/08/2026;818,37
+Alimentação;Delivery e refeições fora;Crédito;21/08/2026;573,20
+Transporte;Transporte público;Auxílio;06/08/2026;270,00
+Transporte;Aplicativos de mobilidade;Crédito;24/08/2026;165,32
+Saúde;Plano/consultas e farmácia;Crédito;16/08/2026;406,34
+Educação;Faculdade, cursos e livros;PIX;09/08/2026;553,38
+Assinaturas;Streaming, nuvem e aplicativos;Crédito;13/08/2026;155,00
+Lazer;Passeios, bares e compras pessoais;Crédito;26/08/2026;683,38
+Loja online;Estoque de roupas;Crédito;11/08/2026;595,24
+Loja online;Embalagens, anúncios e taxas;Crédito;19/08/2026;350,69
+Impostos;MEI/DAS e tributos;Débito;20/08/2026;92,00
+Compras;Compra parcelada não essencial;Crédito;25/08/2026;426,26
+Dívidas;Fatura do cartão de crédito;Débito;28/08/2026;3480,43
+Moradia;Aluguel studio simples;PIX;02/09/2026;1950,00
+Moradia;Condomínio;Boleto;05/09/2026;470,00
+Moradia;Energia elétrica;Débito;12/09/2026;136,36
+Moradia;Água e gás;Débito;15/09/2026;107,72
+Moradia;Internet residencial;Crédito;10/09/2026;125,00
+Alimentação;Mercado;Auxílio;07/09/2026;816,50
+Alimentação;Delivery e refeições fora;Crédito;21/09/2026;516,09
+Transporte;Transporte público;Débito;06/09/2026;270,00
+Transporte;Aplicativos de mobilidade;Crédito;24/09/2026;201,49
+Saúde;Plano/consultas e farmácia;Crédito;16/09/2026;351,89
+Educação;Faculdade, cursos e livros;PIX;09/09/2026;573,66
+Assinaturas;Streaming, nuvem e aplicativos;Crédito;13/09/2026;155,00
+Lazer;Passeios, bares e compras pessoais;Crédito;26/09/2026;623,65
+Loja online;Estoque de roupas;Crédito;11/09/2026;1448,04
+Loja online;Embalagens, anúncios e taxas;Crédito;19/09/2026;443,68
+Impostos;MEI/DAS e tributos;Débito;20/09/2026;92,00
+Dívidas;Juros/atraso do cartão;Débito;28/09/2026;321,87
+Dívidas;Fatura do cartão de crédito;Débito;28/09/2026;3864,84
+Moradia;Aluguel studio simples;PIX;02/10/2026;1950,00
+Moradia;Condomínio;Boleto;05/10/2026;470,00
+Moradia;Energia elétrica;Débito;12/10/2026;119,01
+Moradia;Água e gás;Débito;15/10/2026;125,49
+Moradia;Internet residencial;Crédito;10/10/2026;125,00
+Alimentação;Mercado;Débito;07/10/2026;934,30
+Alimentação;Delivery e refeições fora;Crédito;21/10/2026;503,12
+Transporte;Transporte público;Auxílio;06/10/2026;270,00
+Transporte;Aplicativos de mobilidade;Crédito;24/10/2026;325,30
+Saúde;Plano/consultas e farmácia;Crédito;16/10/2026;315,22
+Educação;Faculdade, cursos e livros;PIX;09/10/2026;623,18
+Assinaturas;Streaming, nuvem e aplicativos;Crédito;13/10/2026;155,00
+Lazer;Passeios, bares e compras pessoais;Crédito;26/10/2026;579,11
+Loja online;Estoque de roupas;Crédito;11/10/2026;673,46
+Loja online;Embalagens, anúncios e taxas;Crédito;19/10/2026;316,19
+Impostos;MEI/DAS e tributos;Débito;20/10/2026;92,00
+Dívidas;Fatura do cartão de crédito;Débito;28/10/2026;2992,40
+Moradia;Aluguel studio simples;PIX;02/11/2026;1950,00
+Moradia;Condomínio;Boleto;05/11/2026;470,00
+Moradia;Energia elétrica;Débito;12/11/2026;102,73
+Moradia;Água e gás;Débito;15/11/2026;127,94
+Moradia;Internet residencial;Crédito;10/11/2026;125,00
+Alimentação;Mercado;Auxílio;07/11/2026;820,40
+Alimentação;Delivery e refeições fora;Crédito;21/11/2026;593,00
+Transporte;Transporte público;Débito;06/11/2026;270,00
+Transporte;Aplicativos de mobilidade;Crédito;24/11/2026;401,33
+Saúde;Plano/consultas e farmácia;Crédito;16/11/2026;367,41
+Educação;Faculdade, cursos e livros;PIX;09/11/2026;600,70
+Assinaturas;Streaming, nuvem e aplicativos;Crédito;13/11/2026;155,00
+Lazer;Passeios, bares e compras pessoais;Crédito;26/11/2026;594,00
+Loja online;Estoque de roupas;Crédito;11/11/2026;746,37
+Loja online;Embalagens, anúncios e taxas;Crédito;19/11/2026;502,91
+Impostos;MEI/DAS e tributos;Débito;20/11/2026;92,00
+Compras;Compra parcelada não essencial;Crédito;25/11/2026;378,44
+Dívidas;Fatura do cartão de crédito;Débito;28/11/2026;3863,46
+Moradia;Aluguel studio simples;PIX;02/12/2026;1950,00
+Moradia;Condomínio;Boleto;05/12/2026;470,00
+Moradia;Energia elétrica;Débito;12/12/2026;117,95
+Moradia;Água e gás;Débito;15/12/2026;114,93
+Moradia;Internet residencial;Crédito;10/12/2026;125,00
+Alimentação;Mercado;Débito;07/12/2026;947,94
+Alimentação;Delivery e refeições fora;Crédito;21/12/2026;556,49
+Transporte;Transporte público;Auxílio;06/12/2026;270,00
+Transporte;Aplicativos de mobilidade;Crédito;24/12/2026;314,85
+Saúde;Plano/consultas e farmácia;Crédito;16/12/2026;320,13
+Educação;Faculdade, cursos e livros;PIX;09/12/2026;687,61
+Assinaturas;Streaming, nuvem e aplicativos;Crédito;13/12/2026;155,00
+Lazer;Passeios, bares e compras pessoais;Crédito;26/12/2026;405,79
+Loja online;Estoque de roupas;Crédito;11/12/2026;1424,09
+Loja online;Embalagens, anúncios e taxas;Crédito;19/12/2026;485,40
+Impostos;MEI/DAS e tributos;Débito;20/12/2026;92,00
+Dívidas;Juros/atraso do cartão;Débito;28/12/2026;310,01
+Lazer;Presentes e confraternizações;Crédito;18/12/2026;850,00
+Dívidas;Fatura do cartão de crédito;Débito;28/12/2026;4636,75

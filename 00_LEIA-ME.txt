@@ -1,0 +1,23 @@
+﻿DADOS FANTASIA PARA TESTE - FINANCIAM MANAGER - PESSOAL
+
+Formato: TXT UTF-8 com BOM, colunas separadas por ponto e vírgula e valores monetários com vírgula decimal.
+Período: janeiro/2024 a dezembro/2026.
+
+ARQUIVOS
+01_RENDIMENTOS.txt: colunas da aba RENDIMENTOS. Valores tratados como líquidos.
+02_SAIDAS_GASTOS.txt: colunas da aba SAÍDAS-GASTOS.
+03_INVESTIMENTOS.txt: colunas da aba INVESTIMENTOS.
+04_METAS.txt: colunas da aba METAS.
+05_SIMULADOR_REFERENCIA.txt: totais mensais para conferir o resultado do simulador; não é uma substituição da fórmula/pivô da aba.
+
+CENÁRIO SINTÉTICO
+- Estágio em Direito em 2024 e 2025; transição para trabalho autônomo em 2026.
+- Renda adicional de TCC, monitoria, trabalhos acadêmicos e lucro líquido de loja de roupas online.
+- Sazonalidade, meses fracos e oscilação realista de demanda.
+- Moradia individual em studio simples na capital de São Paulo.
+- Crescimento de renda acompanhado por inflação, aumento de padrão de vida, estoque excessivo, compras parceladas e juros por atraso.
+- Investimentos irregulares, coerentes com pouco conhecimento de gestão financeira.
+- Meta de carro zero simples fixada em R$ 90.000,00 como valor redondo de teste próximo à faixa de entrada observada em 2026.
+
+IMPORTANTE
+Todos os lançamentos são fictícios. Nenhum dado foi gravado no arquivo original.
